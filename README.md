@@ -1,1 +1,8 @@
 # Custom-Print-Class-by-java
+package ict.22.ClassNames;
+
+public class CustomPrintClass {
+    public static void pr(Object msg) {
+        System.out.println(msg);
+    }
+}
